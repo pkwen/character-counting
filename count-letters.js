@@ -10,4 +10,4 @@ function countLetters(str) {
   return count;
 }
 
-console.log(countLetters("I wish there would be quality pizza at the JS meet"));
+console.log(countLetters("I wish there would be quality pizza at the JS meet."));
